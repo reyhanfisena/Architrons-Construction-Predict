@@ -1,0 +1,159 @@
+No,Tipe Rumah,Luas Tanah (m²),Luas Bangunan (m²),Jumlah Lantai,Jumlah Kamar Tidur,Jumlah Kamar Mandi,Tipe Atap,Tipe Dinding,Tipe Pondasi,Material Utama,Jumlah Tenaga Kerja,Durasi (Hari),Biaya Proyek (Rp)
+1,Tipe 54,79,54,1,3,1,Atap Seng,Bata Merah,Beton Bertulang,Kayu,8,72,Rp703.614.953
+2,Tipe 36,73,36,1,2,1,Atap Seng,Bata Merah,Batu Kali,Besi,6,65,Rp523.875.699
+3,Tipe 60,190,60,2,3,3,Genteng Beton,Batako,Batu Kali,Beton,10,135,Rp594.677.752
+4,Tipe 54,198,54,1,3,2,Genteng Keramik,Batako,Cakar Ayam,Baja,12,155,Rp162.874.869
+5,Tipe 54,112,54,2,2,3,Genteng Beton,Bata Ringan,Beton Bertulang,Kayu,12,160,Rp498.267.732
+6,Tipe 70,125,70,1,3,2,Atap Baja Ringan,Bata Merah,Batu Kali,Beton,10,98,Rp561.702.876
+7,Tipe 36,199,36,1,2,2,Genteng Beton,Batako,Cakar Ayam,Besi,5,75,Rp537.881.673
+8,Tipe 36,78,36,2,1,3,Atap Baja Ringan,Bata Merah,Cakar Ayam,Besi,6,68,Rp295.596.795
+9,Tipe 54,126,54,1,4,2,Genteng Keramik,Bata Ringan,Batu Kali,Baja,8,165,Rp6.992.896.071
+10,Tipe 36,179,36,1,1,3,Genteng Beton,Bata Merah,Batu Kali,Kayu,6,80,Rp577.705.719
+11,Tipe 45,174,45,1,3,2,Genteng Beton,Bata Ringan,Cakar Ayam,Beton,7,164,Rp777.281.626
+12,Tipe 36,152,36,2,1,3,Genteng Keramik,Bata Ringan,Beton Bertulang,Besi,6,110,Rp703.495.634
+13,Tipe 36,157,36,2,1,2,Genteng Beton,Bata Merah,Cakar Ayam,Kayu,6,105,Rp458.274.175
+14,Tipe 54,114,54,1,5,3,Genteng Keramik,Bata Merah,Batu Kali,Besi,9,140,Rp699.107.612
+15,Tipe 45,145,45,1,4,3,Atap Seng,Bata Merah,Beton Bertulang,Beton,11,147,Rp598.753.545
+16,Tipe 36,108,36,2,2,1,Atap Baja Ringan,Bata Ringan,Beton Bertulang,Besi,10,128,Rp126.523.598
+17,Tipe 70,106,70,2,1,1,Atap Baja Ringan,Bata Merah,Beton Bertulang,Beton,9,150,Rp940.461.354
+18,Tipe 60,150,60,1,3,2,Genteng Keramik,Batako,Beton Bertulang,Beton,12,115,Rp894.881.429
+19,Tipe 60,153,60,2,1,3,Atap Baja Ringan,Batako,Cakar Ayam,Kayu,10,199,Rp898.524.938
+20,Tipe 60,151,60,2,4,1,Genteng Keramik,Bata Merah,Beton Bertulang,Beton,11,168,Rp799.758.933
+21,Tipe 60,167,60,1,2,2,Genteng Beton,Batako,Cakar Ayam,Beton,10,180,Rp680.292.988
+22,Tipe 54,106,54,2,3,3,Genteng Keramik,Bata Merah,Batu Kali,Besi,18,137,Rp948.034.129
+23,Tipe 60,96,60,1,2,1,Genteng Beton,Batako,Batu Kali,Besi,5,102,Rp852.038.684
+24,Tipe 36,199,36,1,3,3,Atap Seng,Batako,Batu Kali,Besi,6,100,Rp389.334.185
+25,Tipe 70,199,70,2,3,2,Atap Baja Ringan,Batako,Cakar Ayam,Beton,10,158,Rp892.100.299
+26,Tipe 60,170,60,1,5,1,Genteng Beton,Batako,Batu Kali,Kayu,10,152,Rp636.087.274
+27,Tipe 60,134,60,2,2,2,Atap Seng,Batako,Beton Bertulang,Besi,16,70,Rp613.531.546
+28,Tipe 54,109,54,1,4,3,Genteng Beton,Bata Ringan,Batu Kali,Kayu,11,102,Rp892.129.270
+29,Tipe 45,119,45,1,2,1,Genteng Keramik,Bata Ringan,Cakar Ayam,Besi,14,104,Rp548.807.362
+30,Tipe 36,99,36,1,2,2,Atap Seng,Bata Ringan,Batu Kali,Besi,6,105,Rp406.400.235
+31,Tipe 54,123,54,1,1,3,Genteng Beton,Batako,Batu Kali,Kayu,10,159,Rp654.413.232
+32,Tipe 36,77,36,1,3,2,Genteng Keramik,Bata Ringan,Beton Bertulang,Besi,6,99,Rp370.264.245
+33,Tipe 54,156,54,2,2,3,Genteng Beton,Bata Merah,Beton Bertulang,Besi,10,157,Rp668.596.724
+34,Tipe 60,60,60,2,4,1,Genteng Keramik,Bata Merah,Cakar Ayam,Kayu,15,115,Rp911.732.178
+35,Tipe 70,122,70,1,3,3,Genteng Keramik,Bata Merah,Cakar Ayam,Besi,14,135,Rp425.850.446
+36,Tipe 70,188,70,2,2,3,Genteng Keramik,Bata Merah,Cakar Ayam,Baja,10,165,Rp866.182.997
+37,Tipe 36,180,36,2,2,3,Atap Seng,Bata Ringan,Beton Bertulang,Beton,8,128,Rp937.060.005
+38,Tipe 45,154,45,1,5,2,Atap Baja Ringan,Bata Ringan,Cakar Ayam,Beton,12,125,Rp612.211.552
+39,Tipe 70,141,70,1,5,3,Genteng Beton,Bata Ringan,Beton Bertulang,Beton,10,156,Rp997.072.191
+40,Tipe 45,161,45,2,4,3,Genteng Keramik,Bata Merah,Cakar Ayam,Kayu,10,145,Rp653.440.923
+41,Tipe 36,109,36,1,3,1,Genteng Keramik,Batako,Cakar Ayam,Beton,6,152,Rp933.402.636
+42,Tipe 70,127,70,2,5,2,Genteng Keramik,Bata Ringan,Cakar Ayam,Kayu,5,151,Rp301.914.445
+43,Tipe 60,120,60,2,2,3,Atap Baja Ringan,Bata Merah,Beton Bertulang,Besi,10,185,Rp697.346.609
+44,Tipe 70,139,70,1,2,2,Atap Seng,Bata Merah,Cakar Ayam,Baja,10,159,Rp858.949.847
+45,Tipe 60,166,60,2,1,3,Genteng Keramik,Batako,Beton Bertulang,Beton,10,142,Rp309.865.493
+46,Tipe 70,81,70,2,5,1,Atap Baja Ringan,Bata Merah,Beton Bertulang,Baja,10,159,Rp345.920.376
+47,Tipe 70,161,70,2,4,3,Atap Baja Ringan,Batako,Beton Bertulang,Baja,10,150,Rp698.299.094
+48,Tipe 60,86,60,2,4,2,Genteng Beton,Batako,Beton Bertulang,Kayu,8,188,Rp696.439.358
+49,Tipe 60,128,60,2,2,2,Atap Baja Ringan,Batako,Cakar Ayam,Kayu,8,187,Rp679.886.000
+50,Tipe 54,127,54,2,2,3,Atap Seng,Batako,Beton Bertulang,Kayu,8,157,Rp799.077.126
+51,Tipe 54,189,54,2,3,3,Atap Baja Ringan,Batako,Batu Kali,Kayu,16,156,Rp450.557.922
+52,Tipe 45,101,45,2,1,3,Genteng Keramik,Batako,Beton Bertulang,Beton,16,77,Rp384.062.840
+53,Tipe 60,63,60,1,4,3,Genteng Keramik,Batako,Beton Bertulang,Kayu,19,146,Rp390.053.028
+54,Tipe 36,178,36,2,1,2,Genteng Keramik,Bata Merah,Cakar Ayam,Besi,16,136,Rp849.010.320
+55,Tipe 60,80,60,1,5,2,Genteng Beton,Batako,Batu Kali,Beton,10,160,Rp799.480.553
+56,Tipe 36,85,36,2,4,1,Genteng Keramik,Bata Ringan,Cakar Ayam,Kayu,5,130,Rp361.745.857
+57,Tipe 70,119,70,1,2,3,Genteng Keramik,Batako,Cakar Ayam,Baja,10,166,Rp917.179.549
+58,Tipe 60,189,60,1,1,3,Genteng Keramik,Bata Ringan,Cakar Ayam,Besi,11,135,Rp749.510.170
+59,Tipe 45,80,45,1,1,2,Atap Seng,Batako,Batu Kali,Beton,8,124,Rp353.600.933
+60,Tipe 54,85,54,1,2,3,Atap Seng,Bata Ringan,Cakar Ayam,Kayu,16,52,Rp802.317.046
+61,Tipe 54,78,54,2,4,2,Genteng Keramik,Bata Merah,Batu Kali,Kayu,7,155,Rp875.790.312
+62,Tipe 70,94,70,1,1,3,Genteng Beton,Batako,Cakar Ayam,Kayu,10,125,Rp921.706.981
+63,Tipe 45,78,45,2,5,2,Atap Seng,Bata Merah,Beton Bertulang,Kayu,14,180,Rp748.502.522
+64,Tipe 54,163,54,2,2,3,Atap Baja Ringan,Batako,Beton Bertulang,Besi,10,176,Rp344.942.405
+65,Tipe 70,65,70,2,2,3,Atap Seng,Bata Merah,Cakar Ayam,Kayu,9,169,Rp969.394.529
+66,Tipe 60,101,60,1,1,3,Genteng Keramik,Bata Ringan,Batu Kali,Beton,8,168,Rp880.195.789
+67,Tipe 60,146,60,2,2,2,Genteng Keramik,Bata Merah,Cakar Ayam,Beton,8,168,Rp875.576.286
+68,Tipe 54,176,54,1,3,3,Genteng Beton,Bata Ringan,Beton Bertulang,Baja,6,85,Rp348.250.530
+69,Tipe 36,94,36,2,5,3,Genteng Keramik,Batako,Cakar Ayam,Kayu,5,90,Rp353.974.033
+70,Tipe 60,69,60,2,5,2,Genteng Beton,Bata Ringan,Cakar Ayam,Kayu,9,160,Rp760.723.081
+71,Tipe 70,147,70,1,2,1,Genteng Beton,Bata Merah,Beton Bertulang,Baja,12,199,Rp958.781.041
+72,Tipe 45,137,45,1,3,2,Atap Seng,Batako,Batu Kali,Beton,11,40,Rp850.663.504
+73,Tipe 60,75,60,2,2,3,Atap Seng,Bata Ringan,Beton Bertulang,Kayu,9,119,Rp477.148.726
+74,Tipe 54,88,54,1,5,3,Genteng Beton,Bata Merah,Cakar Ayam,Kayu,10,135,Rp431.020.398
+75,Tipe 70,122,70,1,5,2,Atap Baja Ringan,Batako,Batu Kali,Beton,12,150,Rp929.216.713
+76,Tipe 54,112,54,2,1,2,Atap Seng,Bata Merah,Beton Bertulang,Kayu,9,127,Rp571.181.782
+77,Tipe 36,155,36,1,1,1,Atap Baja Ringan,Batako,Beton Bertulang,Kayu,6,77,Rp413.008.075
+78,Tipe 70,63,70,2,4,1,Atap Seng,Bata Ringan,Batu Kali,Besi,12,161,Rp956.744.834
+79,Tipe 60,149,60,1,1,2,Atap Baja Ringan,Bata Merah,Batu Kali,Kayu,11,120,Rp652.251.342
+80,Tipe 45,198,45,2,3,1,Atap Seng,Batako,Beton Bertulang,Baja,10,79,Rp453.582.929
+81,Tipe 70,155,70,1,5,3,Genteng Keramik,Bata Ringan,Beton Bertulang,Baja,17,130,Rp935.441.791
+82,Tipe 70,133,70,2,4,3,Genteng Beton,Bata Ringan,Batu Kali,Besi,16,130,Rp945.284.466
+83,Tipe 70,136,70,1,1,2,Atap Seng,Batako,Beton Bertulang,Kayu,19,126,Rp882.330.414
+84,Tipe 54,114,54,1,2,2,Atap Baja Ringan,Batako,Batu Kali,Baja,10,135,Rp558.533.400
+85,Tipe 54,128,54,2,5,2,Atap Baja Ringan,Bata Merah,Cakar Ayam,Besi,6,160,Rp796.362.413
+86,Tipe 36,179,36,2,3,3,Genteng Keramik,Batako,Cakar Ayam,Kayu,6,99,Rp355.361.442
+87,Tipe 70,152,70,1,3,1,Genteng Keramik,Bata Merah,Beton Bertulang,Besi,20,140,Rp892.441.909
+88,Tipe 70,140,70,2,3,2,Genteng Beton,Batako,Cakar Ayam,Besi,20,140,Rp897.144.132
+89,Tipe 45,182,45,1,1,3,Genteng Keramik,Bata Merah,Cakar Ayam,Baja,6,98,Rp415.750.742
+90,Tipe 54,61,54,2,4,3,Genteng Keramik,Bata Merah,Beton Bertulang,Baja,9,127,Rp571.181.782
+91,Tipe 60,93,60,1,3,1,Genteng Beton,Batako,Beton Bertulang,Baja,16,114,Rp684.500.758
+92,Tipe 45,148,45,1,2,1,Genteng Beton,Bata Merah,Cakar Ayam,Beton,6,132,Rp596.407.739
+93,Tipe 60,107,60,1,4,1,Genteng Beton,Bata Merah,Batu Kali,Besi,10,109,Rp604.914.045
+94,Tipe 45,135,45,2,2,3,Genteng Beton,Bata Ringan,Batu Kali,Besi,6,100,Rp469.520.174
+95,Tipe 54,138,54,1,5,3,Atap Baja Ringan,Batako,Cakar Ayam,Kayu,10,135,Rp558.533.400
+96,Tipe 36,103,36,2,4,3,Atap Seng,Bata Ringan,Beton Bertulang,Baja,6,89,Rp421.426.035
+97,Tipe 70,102,70,2,5,3,Genteng Keramik,Bata Ringan,Beton Bertulang,Beton,13,170,Rp996.619.160
+98,Tipe 60,105,60,1,1,3,Genteng Beton,Bata Ringan,Cakar Ayam,Besi,10,109,Rp736.294.510
+99,Tipe 60,191,60,2,4,3,Atap Baja Ringan,Bata Ringan,Beton Bertulang,Besi,10,109,Rp675.086.255
+100,Tipe 54,93,54,1,4,3,Atap Seng,Bata Merah,Cakar Ayam,Besi,10,138,Rp658.533.400
+101,Tipe 45,139,45,2,1,1,Atap Baja Ringan,Bata Merah,Cakar Ayam,Beton,10,99,Rp665.314.395
+102,Tipe 54,74,54,2,2,2,Genteng Keramik,Bata Merah,Cakar Ayam,Beton,8,48,Rp999.462.598
+103,Tipe 60,114,60,2,2,3,Genteng Beton,Bata Ringan,Beton Bertulang,Kayu,8,52,Rp707.496.275
+104,Tipe 45,134,45,1,5,3,Atap Baja Ringan,Bata Merah,Batu Kali,Besi,6,128,Rp433.986.394
+105,Tipe 70,97,70,2,4,3,Atap Baja Ringan,Batako,Beton Bertulang,Baja,10,108,Rp109.578.720
+106,Tipe 54,94,54,1,5,2,Atap Seng,Bata Ringan,Beton Bertulang,Kayu,19,174,Rp392.089.194
+107,Tipe 60,72,60,2,3,1,Atap Baja Ringan,Batako,Cakar Ayam,Kayu,10,109,Rp736.294.510
+108,Tipe 36,106,36,2,1,1,Genteng Keramik,Bata Ringan,Cakar Ayam,Besi,5,90,Rp239.505.224
+109,Tipe 60,194,60,2,2,1,Atap Baja Ringan,Bata Ringan,Batu Kali,Baja,10,109,Rp736.294.510
+110,Tipe 36,131,36,2,2,2,Atap Seng,Bata Merah,Cakar Ayam,Beton,5,90,Rp239.505.224
+111,Tipe 36,85,36,1,2,2,Atap Seng,Batu Merah,Batu Kali,Besi,5,90,Rp239.505.224
+112,Tipe 36,60,36,1,5,3,Genteng Keramik,Bata Ringan,Beton Bertulang,Beton,5,76,Rp190.930.000
+113,Tipe 21,60,21,1,1,3,Genteng Beton,Bata Ringan,Cakar Ayam,Besi,5,61,Rp148.930.000
+114,Tipe 36,72,36,1,4,3,Atap Baja Ringan,Bata Ringan,Beton Bertulang,Besi,5,76,Rp206.686.000
+115,Tipe 45,72,45,1,4,3,Atap Seng,Bata Merah,Cakar Ayam,Besi,7,88,Rp231.886.000
+116,Tipe 58,72,58,1,1,1,Atap Baja Ringan,Bata Merah,Cakar Ayam,Beton,8,102,Rp268.286.000
+117,Tipe 60,84,60,1,2,2,Genteng Keramik,Bata Merah,Cakar Ayam,Beton,8,104,Rp289.642.000
+118,Tipe 36,90,36,1,2,3,Genteng Beton,Bata Ringan,Beton Bertulang,Kayu,5,76,Rp230.320.000
+119,Tipe 60,96,60,1,5,3,Atap Baja Ringan,Bata Merah,Batu Kali,Besi,9,104,Rp305.398.000
+120,Tipe 45,96,45,1,4,3,Atap Baja Ringan,Batako,Beton Bertulang,Baja,6,88,Rp263.398.000
+121,Tipe 60,100,60,1,5,2,Atap Seng,Bata Ringan,Beton Bertulang,Kayu,8,104,Rp310.650.000
+122,Tipe 54,104,54,1,3,1,Atap Baja Ringan,Batako,Cakar Ayam,Kayu,7,98,Rp299.102.000
+123,Tipe 104,104,60,1,1,1,Genteng Keramik,Bata Ringan,Cakar Ayam,Besi,12,104,Rp1.215.902.000
+124,Tipe 210,105,210,3,2,1,Atap Baja Ringan,Bata Ringan,Batu Kali,Baja,20,268,Rp1.937.215.000
+125,Tipe 140,105,140,2,2,2,Atap Seng,Bata Merah,Cakar Ayam,Beton,12,191,Rp1.341.215.000
+126,Tipe 92,107,92,2,2,2,Atap Seng,Batu Merah,Batu Kali,Besi,15,139,Rp409.441.000
+127,Tpe 89,107,89,2,5,3,Genteng Keramik,Bata Ringan,Beton Bertulang,Beton,12,136,Rp401.041.000
+128,Tipe 84,107,84,2,1,3,Genteng Beton,Bata Ringan,Cakar Ayam,Besi,13,130,Rp387.041.000
+129,Tipe 106,107,106,2,4,3,Atap Baja Ringan,Bata Ringan,Beton Bertulang,Besi,14,296,Rp1.248.641.000
+130,Tipe 70,120,70,1,4,3,Atap Seng,Bata Merah,Cakar Ayam,Besi,13,115,Rp364.910.000
+131,Tipe 90,130,90,2,1,1,Atap Baja Ringan,Bata Merah,Cakar Ayam,Beton,15,137,Rp434.040.000
+132,Tipe 180,135,180,2,2,2,Genteng Keramik,Bata Merah,Cakar Ayam,Beton,17,198,Rp1.292.605.000
+133,Tipe 270,140,270,3,2,3,Genteng Beton,Bata Ringan,Beton Bertulang,Kayu,26,430,Rp1.951.170.000
+134,Tipe 210,140,210,3,5,3,Atap Baja Ringan,Bata Merah,Batu Kali,Besi,23,399,Rp1.883.170.000
+135,Tipe 180,180,180,2,4,3,Atap Baja Ringan,Batako,Beton Bertulang,Baja,17,380,Rp1.751.690.000
+136,Tipe 120,220,120,2,5,2,Atap Seng,Bata Ringan,Beton Bertulang,Kayu,12,120,Rp900.344.323
+137,Tipe 36,60,36,1,3,1,Atap Baja Ringan,Batako,Cakar Ayam,Kayu,5,76,Rp230.456.433
+138,Tipe 140,140,140,2,1,1,Genteng Keramik,Bata Ringan,Cakar Ayam,Besi,12,490,Rp941.215.000
+139,Tipe 45,90,45,1,2,1,Atap Baja Ringan,Bata Ringan,Batu Kali,Baja,7,88,Rp332.990.000
+140,Tipe 21,60,21,1,2,1,Atap Seng,Bata Merah,Cakar Ayam,Beton,5,50,Rp262.090.000
+141,Tipe 30,60,30,1,2,1,Atap Seng,Batu Merah,Batu Kali,Besi,5,60,Rp290.393.000
+142,Tipe 36,84,36,1,2,1,Atap Baja Ringan,Bata Ringan,Batu Kali,Baja,5,76,Rp299.338.000
+143,Tipe 400,1200,400,3,5,4,Atap keramik,Bata Merah,Cakar Ayam,Beton,36,550,Rp4.959.933.333
+144,Tipe 30,30,30,2,2,1,Atap Seng,Batu Merah,Batu Kali,Besi,5,60,Rp281.000.000
+145,Tipe 52,80,52,2,2,1,Atap Seng,Batu Merah,Batu Kali,Besi,10,100,Rp279.560.000
+146,Tipe 207,1200,207,2,4,3,Atap Gavalum,Bata Trasam,Batu Kumbung,Beton,25,369,Rp2.175.532.245
+147,Tipe 69,115,69,2,2,1,Atap Gavalum,Batu Merah,Batu Kali,Beton,10,150,Rp776.250.000
+148,Tipe 175,125,175,2,3,2,Atap Gavalum,Bata Merah,pondasi Strauss Pile,Beton,17,460,Rp1.644.539.000
+149,Tipe 252,252,252,2,5,3,Genteng Karang Pilang,Bata Merah,Batu Kali,Beton,14,679,Rp1.028.036.500
+150,Tipe 175,122,175,2,4,2,Atap Galvalum,Bata Merah,Beton Bertulang,Beton,12,391,Rp1.198.019.798
+151,Tipe 152,192,152,2,3,2,Genteng Karang Pilang,Bata Merah,Batu Kali,Beton,15,458,Rp1.254.552.600
+152,Tipe 195,323,195,2,4,2,Atap Galvalum,Bata Merah,Batu Kali,Beton,15,325,Rp882.947.000
+153,Tipe 194,120,194,2,4,2,Genteng Karang Pilang,Bata Merah,Batu Kali,Beton,14,137,Rp636.914.000
+154,Tipe 126,78,126,2,3,1,Atap Galvalum,Bata Merah,Beton Bertulang,Beton,10,370,Rp1.070.651.900
+155,Tipe 142,416,142,2,4,2,Genteng Karang Pilang,Bata Merah,Batu Kali,Beton,17,266,Rp1.007.591.978
+156,Tipe 112,72,112,2,3,1,Genteng Karang Pilang,Bata Merah,Beton Bertulang,Beton,12,285,Rp694.888.000
+157,Tipe 162,162,162,2,4,2,Genteng Karang Pilang,Bata Merah,Batu Kali,Beton,12,359,Rp1.721.995.000
+158,Tipe 96,96,96,2,3,1,Genteng Karang Pilang,Bata Merah,Batu Rollag,Beton,8,113,Rp619.555.360
