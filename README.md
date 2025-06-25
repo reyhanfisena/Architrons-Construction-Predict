@@ -79,4 +79,3 @@ Project ini belum memiliki lisensi khusus. Silakan tambahkan file LICENSE (MIT, 
 
 ---
 
-*Silakan lengkapi bagian yang masih perlu detail tambahan sesuai perkembangan proyek Anda!*
