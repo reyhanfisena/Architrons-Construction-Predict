@@ -1,5 +1,95 @@
-# Architrons-Construction-Predict
+# Architrons Construction Predict
 
-Website untuk memprediksi waktu pengerjaan dan biaya konstruksi berbasis AI menggunakan algoritma Random Forest. 
-Pelatihan model AI menggunakan google collabs 
-Backend menggunakan php dan API Flask.
+<p align="center">
+  <img src="templates/assets/logo.png" alt="Architrons Construction Predict Logo" width="200"/>
+</p>
+
+Architrons Construction Predict adalah proyek prediksi dalam bidang konstruksi, dikembangkan dengan PHP. Proyek ini bertujuan membantu analisis dan estimasi proyek konstruksi dengan pendekatan terstruktur, modular, dan mudah dikembangkan.
+
+---
+
+## Features
+
+- Prediksi biaya atau waktu konstruksi berdasarkan data historis.
+- Pengolahan dan analisis data proyek konstruksi.
+- Visualisasi hasil prediksi.
+- Antarmuka web yang mudah digunakan.
+- Modular & mudah dikembangkan untuk kebutuhan spesifik lainnya.
+
+---
+
+## Project Structure
+
+```
+Architrons-Construction-Predict/
+│
+├── src/                # Kode sumber utama aplikasi
+├── public/             # File yang dapat diakses publik (index.php, assets, dsb)
+├── config/             # Konfigurasi aplikasi
+├── vendor/             # Dependency eksternal (Composer)
+├── docs/               # Dokumentasi dan diagram
+│   └── logo.png        # Logo aplikasi
+├── .env.example        # Contoh file environment
+├── composer.json       # Konfigurasi Composer
+└── README.md           # Dokumentasi utama
+```
+
+---
+
+## Project Index
+
+| Folder/File           | Deskripsi                                         |
+|-----------------------|--------------------------------------------------|
+| `/src`                | Kode sumber utama aplikasi                       |
+| `/public`             | File publik (frontend, entry point, dsb)         |
+| `/config`             | File konfigurasi aplikasi                        |
+| `/vendor`             | Dependency eksternal (Composer)                  |
+| `/docs`               | Dokumentasi, logo, dan referensi                 |
+| `.env.example`        | Contoh environment variables                     |
+| `composer.json`       | Daftar dependensi dan metadata proyek            |
+| `README.md`           | Dokumentasi utama proyek                         |
+
+---
+
+## Roadmap
+
+- [x] Struktur dasar proyek
+- [x] Prediksi sederhana biaya/waktu konstruksi
+- [ ] Integrasi visualisasi data
+- [ ] Penambahan fitur analitik lanjutan
+- [ ] Penambahan user management
+- [ ] Dokumentasi penggunaan API
+- [ ] Deployment ke production
+
+---
+
+## Contribution
+
+Kontribusi sangat terbuka!  
+Untuk berkontribusi:
+
+1. Fork repo ini & buat branch baru untuk fitur/bugfix Anda.
+2. Commit perubahan dan buat pull request.
+3. Jelaskan perubahan Anda secara jelas di PR.
+4. Diskusi & review akan dilakukan sebelum merge.
+
+Harap baca [CONTRIBUTING.md](CONTRIBUTING.md) (jika tersedia) sebelum mulai.
+
+---
+
+## License
+
+Project ini belum memiliki lisensi khusus. Silakan tambahkan file LICENSE (MIT, GPL, dsb) jika diperlukan.
+
+---
+
+## Acknowledgements
+
+- [PHP](https://www.php.net/)
+- [Composer](https://getcomposer.org/)
+- [Open Source Community](https://github.com/)
+- Semua kontributor dan pengguna yang telah membantu pengembangan proyek ini.
+
+---
+
+*Silakan lengkapi bagian yang masih perlu detail tambahan sesuai perkembangan proyek Anda!*
