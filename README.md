@@ -63,19 +63,6 @@ Architrons-Construction-Predict/
 
 ---
 
-## Contribution
-
-Kontribusi sangat terbuka!  
-Untuk berkontribusi:
-
-1. Fork repo ini & buat branch baru untuk fitur/bugfix Anda.
-2. Commit perubahan dan buat pull request.
-3. Jelaskan perubahan Anda secara jelas di PR.
-4. Diskusi & review akan dilakukan sebelum merge.
-
-Harap baca [CONTRIBUTING.md](CONTRIBUTING.md) (jika tersedia) sebelum mulai.
-
----
 
 ## License
 
